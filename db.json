@@ -1,0 +1,51 @@
+{
+  "produtos": [
+    {
+      "nome": "Camiseta Conforto",
+      "descricao": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex",
+      "preco": 70.00,
+      "imagemDesktop": "./src/assets/Desktop/Imagens Cards/Camiseta.png",
+      "imagemMobile": "./src/assets/Mobile/Imagens cards/Card camiseta.png",
+      "imagemTablet": "./src/assets/Tablet/Imagens Cards/camiseta.png"
+    },
+    {
+      "nome":"Calça Alfaiataria" ,
+      "descricao": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
+      "preco": 180.00,
+      "imagemDesktop": "./src/assets/Desktop/Imagens Cards/Calça.png",
+      "imagemMobile": "./src/assets/Mobile/Imagens cards/Card calça.png",
+      "imagemTablet": "./src/assets/Tablet/Imagens Cards/calça.png"
+    },
+    {
+      "nome": "Tênis Chunky",
+      "descricao": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
+      "preco": 250.00,
+      "imagemDesktop": "./src/assets/Desktop/Imagens Cards/Tenis.png",
+      "imagemMobile": "./src/assets/Mobile/Imagens cards/Card tenis.png",
+      "imagemTablet": "./src/assets/Tablet/Imagens Cards/tenis.png"
+    },    
+    {
+      "nome": "Jaqueta Jeans",
+      "descricao": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
+      "preco": 150.00,
+      "imagemDesktop": "./src/assets/Desktop/Imagens Cards/Jaqueta.png",
+      "imagemMobile": "./src/assets/Mobile/Imagens cards/Card jaqueta jeans.png",
+      "imagemTablet": "./src/assets/Tablet/Imagens Cards/jaqueta jeans.png"
+    },    
+    {
+      "nome": "Óculos Redondo ",
+      "descricao": "Armação metálica em grafite com lentes arredondadas. Sem erro! ",
+      "preco": 120.00,
+      "imagemDesktop": "./src/assets/Desktop/Imagens Cards/óculos.png",
+      "imagemMobile": "./src/assets/Mobile/Imagens cards/Cards óculos.png",
+      "imagemTablet": "./src/assets/Tablet/Imagens Cards/óculos.png"
+    },    {
+      "nome": "Bolsa coringa",
+      "descricao": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
+      "preco": 120.00,
+      "imagemDesktop": "./src/assets/Desktop/Imagens Cards/Bolsa.png",
+      "imagemMobile": "./src/assets/Mobile/Imagens cards/Card bolsa.png",
+      "imagemTablet": "./src/assets/Tablet/Imagens Cards/bolsa.png"
+    }
+  ]
+}
